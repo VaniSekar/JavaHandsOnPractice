@@ -1,4 +1,4 @@
-package com.dovetailsystems.sample;
+package com.vani.sample;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
