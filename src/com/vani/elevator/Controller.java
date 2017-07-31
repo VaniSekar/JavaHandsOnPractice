@@ -1,4 +1,4 @@
-package com.dovetailsystems.elevator;
+package com.vani.elevator;
 
 import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.BlockingQueue;
