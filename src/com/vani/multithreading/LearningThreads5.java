@@ -1,4 +1,4 @@
-package com.dovetailsystems.multithreading;
+package com.vani.multithreading;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
