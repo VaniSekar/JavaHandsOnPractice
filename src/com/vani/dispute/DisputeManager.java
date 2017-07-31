@@ -1,4 +1,4 @@
-package com.dovetailsystems.dispute;
+package com.vani.dispute;
 
 public class DisputeManager {
 
