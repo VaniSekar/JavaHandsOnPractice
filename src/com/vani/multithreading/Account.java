@@ -1,6 +1,6 @@
-package com.dovetailsystems.multithreading;
+package com.vani.multithreading;
 
-import com.dovetailsystems.exceptionhandling.TransferException;
+import com.vani.exceptionhandling.TransferException;
 
 public class Account {
 
