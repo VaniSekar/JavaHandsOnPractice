@@ -1,4 +1,4 @@
-package com.dovetailsystems.junit;
+package com.vani.junit;
 
 public class PalindromeTester {
 
