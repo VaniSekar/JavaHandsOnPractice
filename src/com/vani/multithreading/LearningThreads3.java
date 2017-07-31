@@ -1,4 +1,4 @@
-package com.dovetailsystems.multithreading;
+package com.vani.multithreading;
 
 import java.util.ArrayList;
 import java.util.List;
