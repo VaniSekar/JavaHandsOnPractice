@@ -1,4 +1,4 @@
-package com.dovetailsystems.sample;
+package com.vani.sample;
 
 public class Employee implements Comparable<Employee> {
 
