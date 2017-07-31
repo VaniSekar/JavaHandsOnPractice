@@ -1,4 +1,4 @@
-package com.dovetailsystems.multithreading;
+package com.vani.multithreading;
 
 import java.util.Random;
 import java.util.concurrent.locks.Lock;
