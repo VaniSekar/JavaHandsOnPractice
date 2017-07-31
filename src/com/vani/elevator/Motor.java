@@ -1,4 +1,4 @@
-package com.dovetailsystems.elevator;
+package com.vani.elevator;
 
 public class Motor {
 
