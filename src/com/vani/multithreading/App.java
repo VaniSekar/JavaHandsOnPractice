@@ -1,4 +1,4 @@
-package com.dovetailsystems.multithreading;
+package com.vani.multithreading;
 
 public class App {
 
