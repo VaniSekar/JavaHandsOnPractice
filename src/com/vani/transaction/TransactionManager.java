@@ -1,6 +1,6 @@
-package com.dovetailsystems.transaction;
+package com.vani.transaction;
 
-import com.dovetailsystems.dispute.DisputeManager;
+import com.vani.dispute.DisputeManager;
 
 public class TransactionManager {
 
