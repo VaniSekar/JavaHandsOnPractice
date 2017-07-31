@@ -1,4 +1,4 @@
-package com.dovetailsystems.junit;
+package com.vani.junit;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
