@@ -1,4 +1,4 @@
-package com.dovetailsystems.sample;
+package com.vani.sample;
 
 public class EmployeeServiceImpl implements IEmployee {
 
